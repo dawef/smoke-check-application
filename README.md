@@ -18,3 +18,4 @@ BluetoothSocket을 통해 들어온 센서 값을 1초마다 지속적으로 받
 일정 값에 따라 0~100 (비흡연), 101~300(흡연 의심), 301~ (흡연) 단계를 판단해 안드로이드 스마트폰 화면에 표시한다.
 
 ## 시연 화면 :
+![image](https://github.com/dawef/smoke-check-application/assets/157953050/65f3bd0c-d877-4ebc-a709-5f981f486cc4)
